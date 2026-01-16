@@ -1,0 +1,20 @@
+{
+  "name": "boodschappenlijst",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Supermarkt prijsvergelijker voor Jumbo, Albert Heijn, Plus en Dirk",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@lit-labs/virtualizer": "^2.0.0",
+    "lit": "^3.1.0",
+    "tesseract.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
